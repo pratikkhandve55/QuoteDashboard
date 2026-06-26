@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "customer": "Tesla",
+        "project": "Solar Plant",
+        "city": "New York",
+        "status": "Needs Info",
+        "priority": "High",
+        "risk": "Medium",
+        "estimated_value": 50000,
+        "missing_items": [
+            "Blueprint",
+            "Budget"
+        ]
+    },
+    {
+        "id": 2,
+        "customer": "Amazon",
+        "project": "Warehouse Expansion",
+        "city": "Chicago",
+        "status": "In Review",
+        "priority": "Medium",
+        "risk": "Low",
+        "estimated_value": 75000,
+        "missing_items": []
+    },
+    {
+        "id": 3,
+        "customer": "Google",
+        "project": "Data Center",
+        "city": "Austin",
+        "status": "New",
+        "priority": "High",
+        "risk": "High",
+        "estimated_value": 120000,
+        "missing_items": [
+            "Technical Drawings"
+        ]
+    },
+    {
+        "id": 4,
+        "customer": "Microsoft",
+        "project": "Office Renovation",
+        "city": "Seattle",
+        "status": "Waiting for Customer",
+        "priority": "Low",
+        "risk": "Low",
+        "estimated_value": 30000,
+        "missing_items": [
+            "Site Photos"
+        ]
+    }
+]
