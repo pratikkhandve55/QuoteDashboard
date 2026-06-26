@@ -17,7 +17,7 @@ The application allows users to:
 
 
 ![Dashboard](./screenshots/dashboard.png)
-![StatusUpdate](./screenshots/statusupdate.png)
+![statusupdate](./screenshots/statusupdate.png)
 
 ---
 
