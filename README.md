@@ -16,7 +16,7 @@ The application allows users to:
 ## 📸 Dashboard Preview
 
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 ![Statusupdate](./screenshots/Statusupdate2.png)
 
 ---
