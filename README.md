@@ -17,6 +17,7 @@ The application allows users to:
 
 
 ![Dashboard](./screenshots/Dashboard.png)
+## 📸 Status Update
 
 ![Statusupdate](./screenshots/statusupdate.png)
 
